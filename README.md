@@ -71,13 +71,10 @@ The project demonstrates several design patterns to create a robust and maintain
   - Factory Method
   - Observer
 
-## Getting Started
-
-[Instructions for setup and running the game to be added]
 
 ## UML Diagram
 
-[UML diagram to be added]
+
 
 ## References
 
